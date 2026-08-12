@@ -85,7 +85,7 @@ LETS combines:
 
 A working LETS prototype has been developed using a recycled-paper body and graphite writing core.
 
-![LETS Recycled-Paper Pencil Prototype](lets-prototype.jpg)
+![LETS Recycled-Paper Pencil Prototype](assets/lets-prototype.jpg)
 
 *LETS prototype — recycled-paper pencil with branded exterior.*
 
