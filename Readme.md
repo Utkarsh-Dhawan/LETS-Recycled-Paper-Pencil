@@ -4,11 +4,7 @@
 
 > **Building an affordable, sustainable alternative to conventional wooden pencils through recycled-paper manufacturing, product innovation, and scalable distribution.**
 
-![LETS Recycled-Paper Pencil Prototype](assets/lets-prototype.jpg)
 
-*LETS recycled-paper pencil prototype.*
-
----
 
 ## 🚀 Executive Summary
 
@@ -49,6 +45,12 @@ LETS focuses on balancing:
 ## 🔬 Prototype Validation
 
 A working LETS prototype was developed and tested.
+
+![LETS Recycled-Paper Pencil Prototype](assets/lets-prototype.jpg)
+
+*LETS recycled-paper pencil prototype.*
+
+---
 
 | Test                | Result                            |
 | ------------------- | --------------------------------- |
